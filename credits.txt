@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Font and Icon Credits:
 https://linearicons.com/free
 https://themify.me/themify-icons
@@ -10,3 +11,17 @@ Images Credits:
 https://unsplash.com/
 https://pexels.com/
 https://www.freepik.com/
+=======
+Font and Icon Credits:
+https://linearicons.com/free
+https://themify.me/themify-icons
+https://icons8.com/line-awesome
+https://fontawesome.com/
+https://fonts.google.com
+
+
+Images Credits:
+https://unsplash.com/
+https://pexels.com/
+https://www.freepik.com/
+>>>>>>> 9b7c2a27a2d48c90d756848df749826ce686a829

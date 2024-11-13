@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Template Created By:
 LayoutFlow
 https://layoutflow.com/
@@ -9,4 +10,17 @@ Terms:
 - You can freely use it for your website or your client's. But, you can not redistribute it or resale it.
 - You can not claim the ownership/copyrights of the template.
 - Do not use for illegal or unsocial purposes. Strictly prohibited.
+=======
+Template Created By:
+LayoutFlow
+https://layoutflow.com/
+
+
+
+Terms:
+- This template is Free. You can edit it freely and also further develop it.
+- You can freely use it for your website or your client's. But, you can not redistribute it or resale it.
+- You can not claim the ownership/copyrights of the template.
+- Do not use for illegal or unsocial purposes. Strictly prohibited.
+>>>>>>> 9b7c2a27a2d48c90d756848df749826ce686a829
 - Use the template at your own risk, expenses, and responsibility. We (makers) and 3rd party source providers are liability-free in any of the cases.
